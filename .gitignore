@@ -1,0 +1,6 @@
+# https://github.com/toptal/gitignore/blob/master/templates/FreeCad.gitignore
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
